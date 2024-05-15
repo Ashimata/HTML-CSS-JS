@@ -6798,7 +6798,7 @@ header {
         flex-direction: row-reverse;
         margin-left: -15%;
         margin-top: 10%;
-        width: 100%;
+        width: 150%;
         height: 100vh;
         gap: 15px;
       }
